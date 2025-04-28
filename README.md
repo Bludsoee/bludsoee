@@ -1,16 +1,18 @@
-## Hi there 👋
+#### <img src="static/header.png" alt="Header" width="1300" height="300">
 
-<!--
-**Bludsoee/bludsoee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is **Bludsoe** 👋! I'm a security & front-end developer and master's student in information security. You can find more information about me and my work at my portfolio, in addition to how to contact me.
 
-Here are some ideas to get you started:
+# Developer Skills 🛠️
+### Comfortable With
+[![Skills](https://skillicons.dev/icons?i=python,java,html,js,git,gitlab,sqlite&perline=4)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Less Comfortable With
+[![Skills](https://skillicons.dev/icons?i=c,css,scss,latex,md,mysql&perline=4)](https://skillicons.dev)
+
+### Want to Learn
+[![Skills](https://skillicons.dev/icons?i=cpp,discordjs,cs,nextjs,jodejs,react,rust,swift,unity,unreal&perline=5)](https://skillicons.dev)
+
+# Work Skills 💻
+### 👥 Teamwork - 📊 Statistics - 📅 Planning - ⏰ Time Management
+
+### 💬 Communication - 🔎 Learning/Adapting - ❓ Problem Solving - 📈 Work Ethic
