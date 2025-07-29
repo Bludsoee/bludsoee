@@ -4,13 +4,13 @@ Hi, my name is **Bludsoe** 👋! I'm a security & front-end developer and master
 
 # Developer Skills 🛠️
 ### Comfortable With
-[![Skills](https://skillicons.dev/icons?i=python,java,html,css,js,git,sqlite&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,scss,md,git,sqlite&perline=4)](https://skillicons.dev)
 
 ### Less Comfortable With
-[![Skills](https://skillicons.dev/icons?i=c,scss,latex,md,mysql&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,latex,mysql&perline=4)](https://skillicons.dev)
 
 ### Want to Learn
-[![Skills](https://skillicons.dev/icons?i=cpp,discordjs,cs,nextjs,jodejs,react,rust,swift,unity,unreal&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,discordjs,cs,nextjs,jodejs,rust,swift,unity,unreal&perline=5)](https://skillicons.dev)
 
 # Work Skills 💻
 ### 👥 Teamwork - 📊 Statistics - 📅 Planning - ⏰ Time Management
