@@ -1,6 +1,4 @@
-#### <img src="static/header.png" alt="Header" width="1300" height="300">
-
-Hi, my name is **Bludsoe** 👋! I'm a security & front-end developer and master's student in information security. You can find more information about me and my work at my [portfolio](https://bludsoee.github.io/), in addition to how to contact me.
+Hi, my name is **Bludsoe** 👋! I'm a master's student in information security. You can find more information about me and my work at my [portfolio](https://bludsoee.github.io/), in addition to how to contact me.
 
 # Developer Skills 🛠️
 ### Comfortable With
